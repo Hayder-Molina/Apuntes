@@ -1,0 +1,56 @@
+phyton run manage
+------------------------------------------------------------------------------------------------------------------------------
+Modificador de acceso: (para el acceso)
+-----------------------------------------------------------------------------------------------------------------------------
+Los modificadores que se le asignan a las clases son:
+----------------------------------------------------------------------------------
+public
+defaul:se le asigna cuando no tiene modificador,solo las clases dentro del paquete
+
+Los modificadores que se le asignan a los atributos,metodos y constructores son:
+
+public=cualquera
+private=solo la misma clase
+default=se le asigna cuando no tiene modificador,solo las clases dentro del paquete
+protected=clases del paquete y sub clases
+
+-----------------------------------------------------------------------------------------------------------------------------
+Modificador de sin acceso(otra funcionalidad pero no tiene que ver con el acceso)
+------------------------------------------------------------------------------------------------------------------------------
+para las clases (manejo de herencia)
+-------------------------------------------------------
+final= no puede ser heredada o heredar
+abstract=La clase no se puede usar para crear objetos
+	 (para acceder a una clase abstracta, debe heredarse de otra clase).
+-----------------------------------------------------------------------------------------------------------------------------
+para los metodos y atributos 
+-------------------------------------------------------
+fina=Los atributos y métodos no se pueden anular/modificar
+static=Los atributos y métodos pertenecen a la clase, en lugar de un objeto
+	(no es necesario crear un objeto para aceder a ellos)
+abstract=Solo se puede usar en una clase abstracta y solo se puede 
+	usar en métodos.El método no tiene cuerpo, por ejemplo, 
+	abstract void run();.El cuerpo lo proporciona la subclase (heredada de).
+transient=Los atributos y métodos se omiten al serializar el objeto 
+	que los contiene
+synchronized=Solo se puede acceder a los métodos mediante un 
+	 subproceso a la vez
+
+-----------------------------------------------------------------------------------------------------------------------------
+API de Java: https://docs.oracle.com/javase/8/docs/api/
+----------------------------------------------------------------------------------------------------------------------------
+Herencia
+sub clase(clase hija)
+superClase(Clase padre)
+*Para heredar se utiliza la palabra clave extends
+------------------------------------------------------------------------------------------------------------------------------
+clases internas 
+
+Para acceder a la clase interna, cree un objeto 
+de la clase externa y luego cree un objeto de la clase interna
+
+el limite es de 85
+
+El martes calificacion de evidencia
+la guia se envia el domingo 6:00
+justificar y alinear 

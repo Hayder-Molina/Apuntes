@@ -1,0 +1,97 @@
+Reclamacion del los equipos
+Comunicarme con la instructora 
+Genearar ticket// ya esta generado falta que lo confirmen
+agregar cuenta de plazi  y esperar a que me añadan a los grupos de 
+
+instaladas:
+vsCode//ya
+Postman// preguntar licencias ya
+eclipse// ya
+airPort//no habre
+node//ya
+filezilla// habre normal
+postgres//ya ingrar la clave
+jdk//ya
+git //ya
+dbever/ya
+anidesk// ya
+sprin boot// ya 
+
+https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbkVjd081cmtzMXQ1ZUs1dWZ4clZGOGJiZUlUZ3xBQ3Jtc0tuNUd5QWt0SHMwVUdRQ3FpX3hYTF9veVpMRXZfVUNocmtjc1k1c3JQbHY0ckZzME41VG1EZDRYXzdZdDhhTVFScVpndGdWSXRneVlBd0p6WGNuMGNyYU1PRkQ0cnVOeEdTX0QtOUlLTnVXdDdOa2F6MA&q=https%3A%2F%2Fbit.ly%2Fpoo-paradigm&stzid=Ugw8T8mt4RZgnLv8OIt4AaABAg
+
+07/10/2022
+Esperar para la cuenta de plazy
+-----------------------------------------------
+Entorno de desarrollo
+esperar a qque nos den las indicaciones 
+Arreglar el Java
+conectar el git a mi cuenta 
+tratar de arreglar el postgres 
+cacharrrearle al IDE Eclipse 
+averguar para que sirven las otras app
+
+----------------------------------------------------------
+repazar conocimientos en Java
+averiguar sonbre el DAO
+hacer ejercicios de javaScript
+Preparar todo para mañana
+----------------------------------------------------------
+importante 
+Estar pendiente del correo con la cucha// 
+del plan de mejoramiento
+
+Dejar el entorno de desarrollo lo mas listo posible para el Lunes 
+
+Es tuve repasando temas de Java y estuve
+ arreglando temas pendientes con la cordinacion ceet 
+
+
+
+			10/102022
+Tareas
+Comunicarme con el scrun para solucionar problemas del entorno de desarrollo
+pedir cuenta de plazzi
+redaccatar carta aal SENA
+
+			11/10/2022
+
+Falta por Hacer:
+jaio:pedir la cuenta de git lab//Ya
+chen: para que mede los permisos//ya
+harold: Montar el servidor local//no
+correo correccion de notas//ya 
+
+mi ahorro mi hogar
+
+			12/10/2022
+
+Reunion con nataly: Proceso de desarrollo 9:30//ya
+Reunion con oswaldo: procesos de empresa 10:30//ya
+checar video de la tarea que nos pusieron: 12:30//Ya
+Jaime: arreglar el entorno de desarrollo: //ya
+
+Mpro Catalogaciiones
+
+pedir a jairo numero de tarea:
+
+		13/10/2022
+
+ Hablar con Harold para que nos explique la tarea asignada
+https://git.grupomok.com.co/mpro/c-digo-fuente/claimhunting/Colpatria/ch-utilities/ch-utilities-backend.git 
+ 
+
+Estoy trabajando con Harold lo que nos pusieron. Consultar y validar 
+por que no estaba funcionando el modulo de "Reclamaciones por Radicar" en el 
+aplicativo de Colpatria Cleanhunting y ya despues revisar
+ en el aplicativo de Axa utilidades el boton
+ de "subir archivo que no esta funcionando".
+------------------------------------------------------------------------------------------------------------------------------
+		26/10/2022
+Me pusieron reunirme con chen y analizar el codigo
+Me dijeron que me iban a poner requerimientos solo
+-------------------------------------------------------------------------------------------------
+
+
+
+
+
